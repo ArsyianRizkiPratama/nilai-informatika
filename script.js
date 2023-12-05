@@ -1017,8 +1017,8 @@ const studentData = [
        {
         "nama": "AINA FAQIHATUN NISA",
         "kelas": "XI 8",
-        "nilai": "37.5",
-        "status": "Remedial",
+        "nilai": "76",
+        "status": "Lulus",
         "kkm": "75"
        },
        {
