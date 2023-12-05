@@ -1271,7 +1271,8 @@ function cariNilai() {
 
     if (student) {
         resultElement.innerHTML = `<p>${inputNama}</p> 
-        <p>kelas ${inputKelas}</p> 
+        <p>kelas ${inputKelas}</p>
+        <p>Nilai AAS: ${student.nilai}</p>
         <p>Status Nilai: ${student.status}</p>`;
     } else {
         resultElement.innerHTML = `<p>Data tidak ditemukan</p>`;
